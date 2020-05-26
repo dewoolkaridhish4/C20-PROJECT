@@ -48,9 +48,7 @@ var speed,weight;
   text("Organisation, 860,85");
 
 drawSprites();
-
-
-    drawSprites(); 
+ 
       
       }
 
